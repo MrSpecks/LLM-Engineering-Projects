@@ -66,6 +66,6 @@ This repository is open-source under the [MIT License](./LICENSE).
 
 ## ✨ Author
 
-👤 **[Your Name / GitHub Handle]**  
+👤 **Kagiso Mfusi**  
 Currently pursuing **Mastering LLM Engineering**  
 Focused on **applied AI development, prototyping, and system integration**
