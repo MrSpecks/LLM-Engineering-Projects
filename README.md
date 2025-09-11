@@ -21,8 +21,6 @@ A Jupyter notebook project that:
 - Connects to a **locally running Llama 3.2 model** via the Ollama API
 - Generates concise **markdown summaries** of webpages
 
-📂 Folder: [`project-1-website-summarizer`](./project-1-website-summarizer)
-
 ---
 
 ## 🔧 Tech Stack
