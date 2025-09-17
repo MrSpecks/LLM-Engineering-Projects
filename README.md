@@ -29,6 +29,9 @@ A notebook that: 📰💻🎨
 - Uses an LLM to generate **brochure-ready text**
 - Produces structured JSON and text outputs for easy formatting
 
+- Impact:
+This project demonstrates the power of combining web scraping, intelligent link filtering, and Al-driven content generation to deliver ready-to-use marketing assets. It shows how **businesses can reduce costs, speed up content creation, and maintain consistent messaging** with minimal human input.
+
 ---
 
 ### 3. AI Q&A Bot
