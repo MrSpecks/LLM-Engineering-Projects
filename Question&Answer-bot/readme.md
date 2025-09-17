@@ -4,6 +4,12 @@ The **AI Q&A Bot** is a Jupyter Notebook project that allows you to interactivel
 
 ---
 
+## Impact:
+
+Improved developer productivity, **reduced time-to-understand complex codebases**, and created potential for **enterprise-grade internal documentation tools**.
+
+---
+
 ## ✨ Features
 
 - **Interactive Q&A**: Ask questions directly in the notebook and receive clear, step-by-step answers.
