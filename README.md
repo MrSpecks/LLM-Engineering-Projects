@@ -20,6 +20,12 @@ A Jupyter notebook project that: 🖥️🌎📝
 - Connects to a **locally running Llama 3.2 model** via the Ollama API
 - Generates concise **markdown summaries** of webpages
 
+**Impact:**
+- Saves time & effort: Automates the tedious process of reading and filtering through entire websites.
+- Boosts decision-making: Provides executives, analysts, and researchers with quick, digestible takeaways.
+- Privacy-first Al: Runs on local infrastructure (via Ollama), ensuring sensitive data never leaves the system.
+- Reusable & scalable: Can be extended into applications like competitive intelligence, market research, and content monitoring dashboards.
+
 ---
 
 ### 2. AI Brochure Maker
@@ -29,8 +35,8 @@ A notebook that: 📰💻🎨
 - Uses an LLM to generate **brochure-ready text**
 - Produces structured JSON and text outputs for easy formatting
 
-- Impact:
-This project demonstrates the power of combining web scraping, intelligent link filtering, and Al-driven content generation to deliver ready-to-use marketing assets. It shows how **businesses can reduce costs, speed up content creation, and maintain consistent messaging** with minimal human input.
+**Impact:**
+- This project demonstrates the power of combining web scraping, intelligent link filtering, and Al-driven content generation to deliver ready-to-use marketing assets. It shows how **businesses can reduce costs, speed up content creation, and maintain consistent messaging** with minimal human input.
 
 ---
 
@@ -41,7 +47,9 @@ An interactive Q&A system in Jupyter that: 💬🤔⚙️
 - Outputs answers in Markdown format
 - Provides a conversational, step-by-step explanation style
 
-- **Impact:** Improved developer productivity, **reduced time-to-understand complex codebases**, and created potential for **enterprise-grade internal documentation tools**.
+**Impact:**
+- Improved developer productivity, **reduced time-to-understand complex codebases**, and created potential for **enterprise-grade internal documentation tools**.
+
 ---
 
 ## 🔧 Tech Stack 🐍🛠️🖥️
