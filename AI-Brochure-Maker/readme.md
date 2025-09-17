@@ -4,6 +4,12 @@ The **AI Brochure Maker** is a Jupyter Notebook project that automates the creat
 
 ---
 
+## Impact
+
+This project demonstrates the power of combining web scraping, intelligent link filtering, and **Al-driven** content generation to deliver ready-to-use marketing assets. It shows how **businesses can reduce costs, speed up content creation, and maintain consistent messaging** with minimal human input.
+
+---
+
 ## ✨ Features
 
 - **Website Scraping**: Fetches company web pages with proper request headers.
