@@ -34,13 +34,14 @@ This project demonstrates the power of combining web scraping, intelligent link 
 
 ---
 
-### 3. AI Q&A Bot
+### 3. AI Q&A Bot - Interactive Code Assistant 
 An interactive Q&A system in Jupyter that: 💬🤔⚙️
 - Accepts user questions and queries
 - Streams real-time responses from **OpenAI GPT models**
 - Outputs answers in Markdown format
 - Provides a conversational, step-by-step explanation style
 
+- **Impact:** Improved developer productivity, **reduced time-to-understand complex codebases**, and created potential for **enterprise-grade internal documentation tools**.
 ---
 
 ## 🔧 Tech Stack 🐍🛠️🖥️
