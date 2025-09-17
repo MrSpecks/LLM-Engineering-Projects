@@ -4,6 +4,15 @@ This project is a **Jupyter Notebook application** that allows you to scrape the
 
 ---
 
+## Impact:
+
+- Saves time & effort: Automates the tedious process of reading and filtering through entire websites.
+- Boosts decision-making: Provides executives, analysts, and researchers with quick, digestible takeaways.
+- Privacy-first Al: Runs on local infrastructure (via Ollama), ensuring sensitive data never leaves the system.
+- Reusable & scalable: Can be extended into applications like competitive intelligence, market research, and content monitoring dashboards.
+
+---
+
 ## ✨ Features
 
 - **Web Scraping**: Uses `requests` and `BeautifulSoup` to fetch and parse website content.
